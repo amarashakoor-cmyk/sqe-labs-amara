@@ -1,0 +1,8 @@
+Name                   Stmts   Miss  Cover   Missing
+----------------------------------------------------
+calculator.py             14      0   100%
+string_utils.py           29      5    83%   8, 13, 19, 24, 29
+test_calculator.py        19      0   100%
+test_string_utils.py      39      0   100%
+----------------------------------------------------
+TOTAL                    101      5    95%
